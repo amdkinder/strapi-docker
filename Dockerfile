@@ -7,4 +7,4 @@ RUN npm install
 
 EXPOSE 1337
 
-ENTRYPOINT ["npm", "run", "start"]
+ENTRYPOINT ["npm", "run", "develop"]
